@@ -1,0 +1,10 @@
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\bin\Debug\Arduino Test 2.exe.config
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\bin\Debug\Arduino Test 2.exe
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\bin\Debug\Arduino Test 2.pdb
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\obj\Debug\Arduino Test 2.csprojAssemblyReference.cache
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\obj\Debug\Arduino_Test_2.Form1.resources
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\obj\Debug\Arduino_Test_2.Properties.Resources.resources
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\obj\Debug\Arduino Test 2.csproj.GenerateResource.cache
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\obj\Debug\Arduino Test 2.csproj.CoreCompileInputs.cache
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\obj\Debug\Arduino Test 2.exe
+C:\Users\Seamus\Desktop\repo\Arduino Test 2\Arduino Test 2\obj\Debug\Arduino Test 2.pdb
